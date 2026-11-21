@@ -1,0 +1,28 @@
+sr_rats_attic - Speed Rescue
+By Christian " PtitLoup++ " Gruais
+(cgruais@fr.st)
+www.cgruais.fr.st
+
+
+Anti-terroristes : infiltrez le grenier des
+de la maison, ou sont sequestrés les otages
+par les terroristes. Extrayez les otages,
+et escortez-les en lieu sur jusqu'a l'etage
+inferieur.
+
+Terroristes : empechez l'equipe anti-terroriste 
+de liberer les otages.
+
+
+--==-- Speed Strike Rules --==--
+
+1. One UNIQUE bomb site or ONLY 2 hostages.
+2. Best at 3vs3, 8 players max.
+3. Round time should be 2 minutes or less.
+4. C4 timer should be set to 23 seconds or less.
+5. Only ONE flash allowed, smokes are FORBIDDEN.
+
+
+--==-- Credits --==--
+
+Textures, sounds, models are of all and myself ;o)

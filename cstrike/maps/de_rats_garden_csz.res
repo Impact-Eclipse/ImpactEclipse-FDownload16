@@ -1,0 +1,10 @@
+gfx/env/expoup.tga
+gfx/env/expodn.tga
+gfx/env/expolf.tga
+gfx/env/export.tga
+gfx/env/expoft.tga
+gfx/env/expobk.tga
+sound/garden/chinoise.wav
+sound/garden/gadget1.wav
+overviews/de_rats_garden_csz.bmp
+overviews/de_rats_garden_csz.txt

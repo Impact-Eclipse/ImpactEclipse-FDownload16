@@ -1,0 +1,13 @@
+global 
+{
+	ZOOM		1.09
+
+	ORIGIN	-103.44  -61.38  -105.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_rats_garden_csz.bmp"
+	HEIGHT	-1527.00
+}

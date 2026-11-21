@@ -1,0 +1,27 @@
+  de_rats_garden_csz - Bomb/Defuse
+  
+       - web  -> http://pagesperso-orange.fr/qwak2/
+              -> http://www.cscargo.net
+-----------------------------------------
+est une map de style rats
+on est plongé dans un monde miniature 
+ce qui rend plus sympala map
+le fichier de_rats_garden_csz.pwf 
+a été fait par Sacripan    
+-----------------------------------------
+Contre-Terroristes:
+Empêchez les Terroristes de détruire les sites
+-----------------------------------------------
+Terroristes:
+Détruisez les sites
+--------------------------------------------
+Note : il y a 3 sites ou poser la bombe 
+   32 slots maximum    
+------------------------------------------
+Si vous avez des remarques à me faire 
+vous pouvez toujours me contacter 
+sur le site http://pagesperso-orange.fr/qwak2/
+
+lilou & luniz
+-----------------------------------------------
+(Press FIRE to continue)

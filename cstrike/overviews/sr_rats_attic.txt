@@ -1,0 +1,14 @@
+// fichier de description de l'overview de sr_rats_attic.bsp
+
+global 
+{
+	ZOOM	3.61
+	ORIGIN	291.19 	57.31	-96.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/sr_rats_attic.bmp"
+	HEIGHT	-993.00
+}
